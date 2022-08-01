@@ -1,4 +1,4 @@
 <?php
-include_once("HolaMundo.html");
+required_once("HolaMundo.html");
 
 ?>
